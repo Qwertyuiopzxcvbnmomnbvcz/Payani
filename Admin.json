@@ -1,0 +1,8 @@
+{
+    "id_" : "s123",
+    "name" : "admin",
+    "last_name"  : "admini",
+    "age" : 20 ,
+    "contact_info" : 12345,
+    "salary" : 2500
+}
